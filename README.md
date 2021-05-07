@@ -13,7 +13,7 @@ UNDER DEVELOPMENT
 
 ## Children
 
-- [+ ***auth***: cypress-starter](https://github.com/softspiders/cypress-auth-starter)
+- [+ ***auth***: cypress-auth-starter](https://github.com/softspiders/cypress-auth-starter)
 
 ---
 
