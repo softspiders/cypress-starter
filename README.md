@@ -21,7 +21,7 @@
 
 ---
 
-## Requirements
+## Pre-requisites
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
