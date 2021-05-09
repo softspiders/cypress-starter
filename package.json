@@ -1,0 +1,27 @@
+{
+  "name": "cypress-starter",
+  "version": "0.1.0",
+  "description": "Cypress hello-world-starter",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "cypress": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "cypress",
+    "test",
+    "starter"
+  ],
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com> (https://github.com/AlexanderLapygin)",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^7.2.0"
+  }
+}
